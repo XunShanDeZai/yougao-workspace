@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\True_API_Demo\\True_API_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A51562-5023-4356-A61B-27EBDAE1400D}|GatewayService\\GatewayService.csproj|d:\\true_api_demo\\true_api_demo\\gatewayservice\\gatewayservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7A51562-5023-4356-A61B-27EBDAE1400D}|GatewayService\\GatewayService.csproj|solutionrelative:gatewayservice\\gatewayservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A51562-5023-4356-A61B-27EBDAE1400D}|GatewayService\\GatewayService.csproj|d:\\true_api_demo\\true_api_demo\\gatewayservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7A51562-5023-4356-A61B-27EBDAE1400D}|GatewayService\\GatewayService.csproj|solutionrelative:gatewayservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A51562-5023-4356-A61B-27EBDAE1400D}|GatewayService\\GatewayService.csproj|d:\\true_api_demo\\true_api_demo\\gatewayservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A51562-5023-4356-A61B-27EBDAE1400D}|GatewayService\\GatewayService.csproj|solutionrelative:gatewayservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A51562-5023-4356-A61B-27EBDAE1400D}|GatewayService\\GatewayService.csproj|d:\\true_api_demo\\true_api_demo\\gatewayservice\\custommiddleware\\apikeyauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A51562-5023-4356-A61B-27EBDAE1400D}|GatewayService\\GatewayService.csproj|solutionrelative:gatewayservice\\custommiddleware\\apikeyauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F1049B-DF55-436F-9806-5994FA1E8A5C}|NewFolder1{14F1049B-DF55-436F-9806-5994FA1E8A5C}|D:\\True_API_Demo\\True_API_Demo\\test-gateway.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{14F1049B-DF55-436F-9806-5994FA1E8A5C}|NewFolder1{14F1049B-DF55-436F-9806-5994FA1E8A5C}|solutionrelative:test-gateway.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB81029E-251B-4477-B8E3-568C6D822905}|OrderService\\OrderService.csproj|d:\\true_api_demo\\true_api_demo\\orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB81029E-251B-4477-B8E3-568C6D822905}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1E08CD-5C22-4D81-BB4C-161D540BCA67}|UserService\\UserService.csproj|d:\\true_api_demo\\true_api_demo\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1E08CD-5C22-4D81-BB4C-161D540BCA67}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1E08CD-5C22-4D81-BB4C-161D540BCA67}|UserService\\UserService.csproj|d:\\true_api_demo\\true_api_demo\\userservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1E08CD-5C22-4D81-BB4C-161D540BCA67}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB81029E-251B-4477-B8E3-568C6D822905}|OrderService\\OrderService.csproj|d:\\true_api_demo\\true_api_demo\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB81029E-251B-4477-B8E3-568C6D822905}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1E08CD-5C22-4D81-BB4C-161D540BCA67}|UserService\\UserService.csproj|d:\\true_api_demo\\true_api_demo\\userservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF1E08CD-5C22-4D81-BB4C-161D540BCA67}|UserService\\UserService.csproj|solutionrelative:userservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1E08CD-5C22-4D81-BB4C-161D540BCA67}|UserService\\UserService.csproj|d:\\true_api_demo\\true_api_demo\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF1E08CD-5C22-4D81-BB4C-161D540BCA67}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB81029E-251B-4477-B8E3-568C6D822905}|OrderService\\OrderService.csproj|d:\\true_api_demo\\true_api_demo\\orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB81029E-251B-4477-B8E3-568C6D822905}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test-gateway.sh",
+              "DocumentMoniker": "D:\\True_API_Demo\\True_API_Demo\\test-gateway.sh",
+              "RelativeDocumentMoniker": "test-gateway.sh",
+              "ToolTip": "D:\\True_API_Demo\\True_API_Demo\\test-gateway.sh",
+              "RelativeToolTip": "test-gateway.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2026-07-10T06:37:14.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\True_API_Demo\\True_API_Demo\\UserService\\Program.cs",
+              "RelativeDocumentMoniker": "UserService\\Program.cs",
+              "ToolTip": "D:\\True_API_Demo\\True_API_Demo\\UserService\\Program.cs",
+              "RelativeToolTip": "UserService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T06:24:52.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\True_API_Demo\\True_API_Demo\\UserService\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\True_API_Demo\\True_API_Demo\\UserService\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T06:20:18.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\True_API_Demo\\True_API_Demo\\UserService\\appsettings.json",
+              "RelativeDocumentMoniker": "UserService\\appsettings.json",
+              "ToolTip": "D:\\True_API_Demo\\True_API_Demo\\UserService\\appsettings.json",
+              "RelativeToolTip": "UserService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-10T06:19:31.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\True_API_Demo\\True_API_Demo\\OrderService\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrderService\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\True_API_Demo\\True_API_Demo\\OrderService\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrderService\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T06:17:25.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\True_API_Demo\\True_API_Demo\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "D:\\True_API_Demo\\True_API_Demo\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T06:12:17.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService",
+              "DocumentMoniker": "D:\\True_API_Demo\\True_API_Demo\\UserService\\UserService.csproj",
+              "RelativeDocumentMoniker": "UserService\\UserService.csproj",
+              "ToolTip": "D:\\True_API_Demo\\True_API_Demo\\UserService\\UserService.csproj",
+              "RelativeToolTip": "UserService\\UserService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-10T06:19:48.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\True_API_Demo\\True_API_Demo\\OrderService\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderService\\appsettings.json",
+              "ToolTip": "D:\\True_API_Demo\\True_API_Demo\\OrderService\\appsettings.json",
+              "RelativeToolTip": "OrderService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-10T06:12:40.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiKeyAuthMiddleware.cs",
+              "DocumentMoniker": "D:\\True_API_Demo\\True_API_Demo\\GatewayService\\CustomMiddleware\\ApiKeyAuthMiddleware.cs",
+              "RelativeDocumentMoniker": "GatewayService\\CustomMiddleware\\ApiKeyAuthMiddleware.cs",
+              "ToolTip": "D:\\True_API_Demo\\True_API_Demo\\GatewayService\\CustomMiddleware\\ApiKeyAuthMiddleware.cs",
+              "RelativeToolTip": "GatewayService\\CustomMiddleware\\ApiKeyAuthMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T06:09:43.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\True_API_Demo\\True_API_Demo\\GatewayService\\Program.cs",
+              "RelativeDocumentMoniker": "GatewayService\\Program.cs",
+              "ToolTip": "D:\\True_API_Demo\\True_API_Demo\\GatewayService\\Program.cs",
+              "RelativeToolTip": "GatewayService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T06:06:45.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\True_API_Demo\\True_API_Demo\\GatewayService\\appsettings.json",
+              "RelativeDocumentMoniker": "GatewayService\\appsettings.json",
+              "ToolTip": "D:\\True_API_Demo\\True_API_Demo\\GatewayService\\appsettings.json",
+              "RelativeToolTip": "GatewayService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-10T06:05:15.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GatewayService",
+              "DocumentMoniker": "D:\\True_API_Demo\\True_API_Demo\\GatewayService\\GatewayService.csproj",
+              "RelativeDocumentMoniker": "GatewayService\\GatewayService.csproj",
+              "ToolTip": "D:\\True_API_Demo\\True_API_Demo\\GatewayService\\GatewayService.csproj",
+              "RelativeToolTip": "GatewayService\\GatewayService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-10T06:03:42.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

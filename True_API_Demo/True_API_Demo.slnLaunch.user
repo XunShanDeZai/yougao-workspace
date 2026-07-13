@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "GatewayServiceRun",
+    "Projects": [
+      {
+        "Path": "GatewayService\\GatewayService.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "OrderService\\OrderService.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "UserService\\UserService.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      }
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/scripts/">
+    <File Path="test-gateway.sh" />
+  </Folder>
+  <Project Path="GatewayService/GatewayService.csproj" />
+  <Project Path="OrderService/OrderService.csproj" />
+  <Project Path="UserService/UserService.csproj" />
+</Solution>
