@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\True_API_Demo\\True_API_Demo\\UserService\\UserService.csproj": {}
+    "D:\\yougao-workspace\\True_API_Demo\\UserService\\UserService.csproj": {}
   },
   "projects": {
-    "D:\\True_API_Demo\\True_API_Demo\\UserService\\UserService.csproj": {
+    "D:\\yougao-workspace\\True_API_Demo\\UserService\\UserService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\True_API_Demo\\True_API_Demo\\UserService\\UserService.csproj",
+        "projectUniqueName": "D:\\yougao-workspace\\True_API_Demo\\UserService\\UserService.csproj",
         "projectName": "UserService",
-        "projectPath": "D:\\True_API_Demo\\True_API_Demo\\UserService\\UserService.csproj",
+        "projectPath": "D:\\yougao-workspace\\True_API_Demo\\UserService\\UserService.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\True_API_Demo\\True_API_Demo\\UserService\\obj\\",
+        "outputPath": "D:\\yougao-workspace\\True_API_Demo\\UserService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

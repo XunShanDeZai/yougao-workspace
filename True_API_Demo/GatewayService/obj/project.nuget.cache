@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gmCP31W2kNs=",
+  "dgSpecHash": "DxsVqWHxvPc=",
   "success": true,
-  "projectFilePath": "D:\\True_API_Demo\\True_API_Demo\\GatewayService\\GatewayService.csproj",
+  "projectFilePath": "D:\\yougao-workspace\\True_API_Demo\\GatewayService\\GatewayService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\yarp.reverseproxy\\2.3.0\\yarp.reverseproxy.2.3.0.nupkg.sha512"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\True_API_Demo\\True_API_Demo\\OrderService\\OrderService.csproj",
+      "projectUniqueName": "D:\\yougao-workspace\\True_API_Demo\\OrderService\\OrderService.csproj",
       "projectName": "OrderService",
-      "projectPath": "D:\\True_API_Demo\\True_API_Demo\\OrderService\\OrderService.csproj",
+      "projectPath": "D:\\yougao-workspace\\True_API_Demo\\OrderService\\OrderService.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\True_API_Demo\\True_API_Demo\\OrderService\\obj\\",
+      "outputPath": "D:\\yougao-workspace\\True_API_Demo\\OrderService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
